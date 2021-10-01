@@ -10,7 +10,7 @@ def print_hi(name):
     print(f'Hi, {name}, again.')  # Press Ctrl+F8 to toggle the breakpoint.
     time.sleep(10)
     print(f"And again, {name}.")
-    print("Come on, Jenkins...")
+    print("Come on, Jenkins....")
 
 
 # Press the green button in the gutter to run the script.
