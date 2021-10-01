@@ -9,7 +9,7 @@ def print_hi(name):
     # Use a breakpoint in the code line below to debug your script.
     print(f'Hi, {name}, again.')  # Press Ctrl+F8 to toggle the breakpoint.
     time.sleep(10)
-    print(f"And again.")
+    print(f"And again, {name}.")
 
 
 # Press the green button in the gutter to run the script.
